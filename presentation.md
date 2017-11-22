@@ -35,11 +35,34 @@ Tecnologías
 - Y por supuesto... **¡¡Python!!**
 
 
+
 La serpiente :snake:
 ====================
 
 Calibración de sensores
 -----------------------
+
+---
+
+![](./figures/calibration_test.jpg){width=80%} 
+
+---
+
+$$
+y = e^{\frac{a}{x+b}}
+$$
+
+$$
+x = \frac{a}{\ln y} -b
+$$
+
+![](./figures/sensors_manual_calibration.png) 
+
+---
+
+![](./figures/sensors_autom_calibration.jpg){width=70%}  
+
+---
 
 Bluetooth
 ----------
